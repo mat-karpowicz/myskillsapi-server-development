@@ -6,7 +6,11 @@
 
 ## General info
 This project is a backend server for MySKills API App. Server is built with Node.js and Express.js. 
-Routes returns json object/s. For more info check usage. Server is hosted with Heroku.
+Routes returns json object/s. For more info check usage. Server connects with MongoDB via mongoose. 
+
+NO .ENV FILE (no credentials to connect to database). 
+
+Server is hosted with Heroku.
 
 Server Live: https://myskillsapi-server.herokuapp.com/
 
