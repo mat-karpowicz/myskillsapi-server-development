@@ -14,7 +14,8 @@ Server is hosted with Heroku.
 
 Server Live: https://myskillsapi-server.herokuapp.com/
 
-Client side app Live: https://myskills-api.netlify.app/                 | 
+Client side app Live: https://myskills-api.netlify.app/     
+| 
 Client side app GitHub repo: https://github.com/mat-karpowicz/myskillsapi-client
 
 ## Usage
